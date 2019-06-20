@@ -1,5 +1,3 @@
-
-
 import {
     CHANGE_SEARCH_FIELD,
     REQUEST_ROBOTS_PENDING,
